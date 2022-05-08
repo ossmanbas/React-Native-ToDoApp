@@ -1,6 +1,7 @@
 # React-Native-ToDoApp
 ## Projenin Amacı
 Bugüne kadar öğrenilen bütün componentleri uygulayarak pekiştirmek.
+TextInput a girilen değer "+" butonuna tıklandığında yapılacaklar listesine ekleniyor ve listedeki herhangi bir göreve tıklandığında görev listeden kaldırılıyor.
 * useState
 * Touchable Opacity
 * TextInput
